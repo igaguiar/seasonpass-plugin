@@ -1,0 +1,4 @@
+name: seasonpass-plugin
+version: '${version}'
+main: dev.igao.seasonpassplugin.SeasonPassPlugin
+api-version: '1.20'
